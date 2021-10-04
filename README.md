@@ -2,6 +2,10 @@
 
 # Python Containers - Lab
 
+## Getting Started
+
+- Fork and Clone
+
 ## Setup
 
 Create a `main.py` and test your code with `python3 main.py`.
