@@ -1,8 +1,6 @@
-<img src="https://i.imgur.com/DPzk4Ok.png">
+<img src="https://i.imgur.com/DPzk4Ok.png"/>
 
 # Python Containers - Lab
-
-**This lab is not a deliverable**
 
 ## Setup
 
